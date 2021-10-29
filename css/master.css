@@ -1,0 +1,118 @@
+body {
+  margin: 0;
+  background-color: #FBFBFB;
+
+}
+
+.logo-box {
+  height: 179px;
+  background-color: #FFFFFF;
+}
+
+.logo {
+  background-color: #1768AC;
+  height: 80px;
+  width: 80px;
+  margin: 60px 80px 38px;
+  border-radius: 10px;
+}
+.btn-box{
+  padding-top: 37px;
+}
+.top-btn{
+  margin-top: 40px;
+  margin-bottom: 29px;
+}
+.top-btn button{
+  font-size: 14px;
+}
+.cards-size{
+  width: 240px;
+  height: 156px;
+}
+.font-size-text{
+  font-size: 12px;
+}
+.font-size-text-14{
+  font-size: 14px;
+}
+.heat-map-th{
+  background-color: #D6EDFF;
+}
+.image-for-card{
+  height: 156px;
+  width: 156px
+}
+.dashboard-square{
+  color: #FF6767;
+}
+.sales-square{
+  color: #33A02C;
+}
+.purchase-square{
+  color: #B2DF8A;
+}
+.inventory-square{
+  color: #A6CEE3;
+}
+.report-square{
+  color: #E31A1C;
+}
+.return-square{
+  color: #FDBF6F;
+}
+.accounts-square{
+  color: #CAB2D6;
+}
+.employee-square{
+  color: #FF7F00;
+}
+.settings-square{
+  color: #1F78B4;
+}
+.activetr {
+  background-color: #D6EDFF;
+}
+
+/* ---------------------------- */
+/*  --------- buttons ---------*/
+/* ---------------------------- */
+.btn-sidebar {
+  height: 47px;
+  width: 227px;
+  border:0;
+  border-radius: 0;
+  text-align: left;
+  margin-left: 14px;
+  background-color:#186BB1;
+  color: #ffffff;
+
+}
+.btn-sidebar-active{
+  color: #1768AC;
+  background-color: #ffffff;
+  border-right: 0;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 0;
+  border-top-right-radius: 0;
+  width: 229px;
+}
+.btn-icon-sidebar {
+  height: 17px;
+  width: 17px;
+  margin-right: 14px;
+}
+.btn-icon{
+  height: 17px;
+  width: 17px;
+}
+#sidebar {
+  max-width: 241px;
+  height: 768px;
+  background-color: #186BB1;
+}
+#dashboard{
+  padding:24px 60px 55px 40px;
+  /* width: 1125px; */
+}
